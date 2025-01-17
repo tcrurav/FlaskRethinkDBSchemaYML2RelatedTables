@@ -1,6 +1,6 @@
-# CRUD example with Flask + RethinkDB + Schema + YML
+# 2 related tables CRUD example with Flask + RethinkDB + Schema + YML (2 related tables)
 
-It's just that: a CRUD example with Flask + RethinkDB + Schema + YML. This project has been developed in Windows 11 using WSL2 with the Ubuntu-22.04 distribution.
+It's just that: 2 CRUD with 2 tables example with Flask + RethinkDB + Schema + YML. This project has been developed in Windows 11 using WSL2 with the Ubuntu-22.04 distribution.
 
 ## Getting Started
 
@@ -140,7 +140,7 @@ Enjoy!!!
 ## Test it with POSTMAN
 
 Test this example with the following end-points available here:
-https://documenter.getpostman.com/view/3446841/2sAXxPBYxN
+https://documenter.getpostman.com/view/3446841/2sAYQakWHV
 
 ## Built With
 
