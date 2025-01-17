@@ -1,0 +1,11 @@
+country_schema:
+  name:
+    type: string
+    minlength: 2
+    maxlength: 50
+    required: true
+  bicycles:
+    type: list
+    schema:
+      type: string 
+      min: 1
